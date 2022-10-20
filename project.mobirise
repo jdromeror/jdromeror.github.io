@@ -75,7 +75,7 @@
     "witsec-language": false,
     "witsec-mailform": false,
     "witsec-white-label": true,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "gdpr": false
   },
   "pages": {
